@@ -1,0 +1,13 @@
+1.git config --global user.name ....
+2.git config --global user.email ....
+3. git init
+4.git status
+5 git add 文件名
+6 git commit -m "日志” 文件名
+7 git reflog
+8 git reset --hard 版本号
+9.vim 文件名
+10.git branch 分支名          创建分支
+11git branch -v                查看分支
+12 git checkout 分支名      切换分支
+13 git merge 分支名            合并分支
